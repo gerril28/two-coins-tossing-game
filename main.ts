@@ -1,10 +1,10 @@
 input.onButtonPressed(Button.A, function () {
-    if (Player_1 == Wins) {
+    let Heads = 0
+    if (Player_1 == (Heads == Heads)) {
     	
     }
 })
-let Wins = 0
 let Player_1 = 0
 Player_1 = 0
 let Player_2 = 0
-Wins = 0
+let Wins = 0
