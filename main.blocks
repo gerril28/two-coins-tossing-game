@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="QBT96gPD,jqXWfa094mF">Player 1</variable><variable id="tgp8f@tM9^!^V5!boRq@">Player 2</variable></variables><block type="pxt-on-start" id="W,zo,R=dL~`p4Edbpbag" x="20" y="20"></block><block type="device_forever" id="VbBW7JygAQ[Rt-k=pL}U" x="225" y="20"></block></xml>
